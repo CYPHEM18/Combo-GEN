@@ -13,6 +13,14 @@ A number combination generator — produces every possible combination (or permu
 
 Python 3.6+ — no external dependencies (standard library only).
 
+## Installation
+
+```bash
+git clone https://github.com/CYPHEM18/combo-gen.git
+cd combo-gen
+python3 combo_gen.py --help
+```
+
 ## Usage
 
 **Interactive mode:**
